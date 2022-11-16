@@ -1,0 +1,35 @@
+{
+  "users": {},
+  "chats": {
+    "6289518363262@s.whatsapp.net": {
+      "mute": false,
+      "antilink": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": [],
+    "bendera": [],
+    "bendera2": [],
+    "kabupaten": [],
+    "kimia": [],
+    "asahotak": [],
+    "siapakahaku": [],
+    "susunkata": [],
+    "tekateki": []
+  },
+  "settings": {},
+  "others": {
+    "vote": []
+  },
+  "sticker": {}
+}
