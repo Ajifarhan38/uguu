@@ -18,16 +18,16 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281545463585','6289518363262']
+global.owner = ['6285860271629','6288220946014']
 global.wangsaf= ['+0']
-global.ownernomer = "6281545463585"
-global.premium = ['6281545463585']
+global.ownernomer = "6285860271629"
+global.premium = ['6285860271629']
 global.packname = 'Didin'
 global.author = 'DidinSec'
 global.namabot = 'DidinBotz‡'
 global.sessionName = 'didinsec'
 global.prefa = ['','!','.','#','&']
-global.namebotmu = 'Nama Bot mu'
+global.namebotmu = 'ANJAY MABAR'
 global.tutorial = 'https://youtu.be/hHQRs_eCoXM'
 global.sp = ''
 global.mess = {
